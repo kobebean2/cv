@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 2em;
+}
+h1 {
+  color: #66BFBF;
+  font-size: 90px;
+  text-align: center;
+
+  margin: 0 auto 0 auto;
+}
+h2 {
+  color: #66BFBF;
+
+  text-align: center;
+  width: 10%;
+  margin: 0 auto 0 auto;
+}
+h3 {
+  color: #66BFBF;
+  text-align: center;
+  width: 10%;
+  margin: 0 auto 0 auto;
+}
+.top-container {
+  background-color: violet;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container {
+  background-color: #FFCCCB;
+
+}
+.bottom-container {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+.amon {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 50px
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px
+}
